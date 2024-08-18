@@ -1,0 +1,21 @@
+.star {
+    float:left;
+    width:18px;
+    height:25px;
+    line-height:25px;
+    cursor:pointer
+}
+
+.star:before,.tmp_es:before {
+    content:"\f005";
+    font-family:"Font Awesome 5 Free";
+    font-weight:900;
+    color:#ccc
+}
+
+.fullStar:before,.tmp_fs:before {
+    content:"\f005";
+    font-family:"Font Awesome 5 Free";
+    font-weight:900;
+    color:orange
+}

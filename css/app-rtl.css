@@ -1,0 +1,98 @@
+.app-details .description {
+    border-right: 3px solid #92c66c;
+    border-left: 0;
+    display: block;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.tags li {
+    margin: 5px 0px 6px 8px;
+    padding: 0;
+    background-color: transparent;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.dropdown-toggle::after {
+    margin-right: 2px;
+}
+
+.modal-header .btn-close {
+    margin: -.5rem -.5rem -.5rem;
+}
+
+.swiper-pagination-main {
+    left: 13px !important;
+    text-align: left;
+}
+
+.swiper-slide .logo {
+    margin-left: 12px !important;
+    margin-right: 0;
+}
+
+.submit-app svg {
+    margin-right: 0;
+    margin-left: 5px;
+}
+
+.topic-list .license {
+    margin-right: -5px;
+}
+
+.app-list .title {
+    direction: ltr;
+    text-align: right;
+}
+
+.top-apps .app-title {
+    direction: ltr;
+    text-align: right;
+}
+
+.app-list .developer {
+    direction: ltr;
+    text-align: right;
+}
+
+.top-apps .developer {
+    direction: ltr;
+    text-align: right;
+}
+
+.rss-icon {
+    background-color: orange;
+    width: 10px !important;
+    height: 10px !important;
+    padding: 3px 4px;
+    border-radius: 3px;
+}
+
+.w-25px {
+    margin-left: 2px;
+    margin-right: 0;
+}
+
+.w-35px {
+    margin-left: 3px;
+    margin-right: 0;
+}
+
+.recommended-terms a {
+    margin-left: 0px;
+    margin-right: 3px;
+}
+
+.rss-icon svg {
+    fill: #fff;
+}
+
+.form-select {
+    background-position: left .75rem center
+}
+
+.show-qr-code:hover .qr-code {
+    margin-right: -113px !important;
+}

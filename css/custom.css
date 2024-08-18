@@ -1,0 +1,41 @@
+.navbar {
+background-color: #FFFFFF !important;
+}
+
+.navbar-collapse {
+    background-color: #FFFFFF !important;
+}
+
+.navbar-expand-lg .navbar-nav .dropdown-menu {
+     background-color: #FFFFFF !important;
+}
+
+.nav-link {
+    color: #000000 !important;
+}
+
+.navbar-nav a {
+    color: #000000 !important;
+}
+
+.nav-link:hover {
+    color: #111111 !important;
+}
+
+.navbar-toggler svg {
+    fill: #111111 !important;
+}
+
+.dropdown-item:active, .dropdown-item:hover {
+  background-color: #FFFFFF !important;
+  color: #111111 !important;
+}
+
+.dropdown-toggle::after {
+      color: #111111 !important;
+}
+
+.offcanvas-title {
+      color: #000000 !important;
+}
+
